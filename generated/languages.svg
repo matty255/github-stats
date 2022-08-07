@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 72.185%;" class="progress-item"></span><span style="background-color: #b07219;width: 14.995%;" class="progress-item"></span><span style="background-color: #563d7c;width: 3.502%;" class="progress-item"></span><span style="background-color: #3178c6;width: 3.276%;" class="progress-item"></span><span style="background-color: #e34c26;width: 3.155%;" class="progress-item"></span><span style="background-color: #41b883;width: 1.177%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.985%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.540%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.170%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.015%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 71.973%;" class="progress-item"></span><span style="background-color: #b07219;width: 14.951%;" class="progress-item"></span><span style="background-color: #3178c6;width: 3.558%;" class="progress-item"></span><span style="background-color: #563d7c;width: 3.493%;" class="progress-item"></span><span style="background-color: #e34c26;width: 3.146%;" class="progress-item"></span><span style="background-color: #41b883;width: 1.174%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.982%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.538%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.169%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.015%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">72.18%</span>
+<span class="percent">71.97%</span>
 </li>
 
 
@@ -153,25 +153,25 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Java</span>
-<span class="percent">14.99%</span>
+<span class="percent">14.95%</span>
 </li>
 
 
 <li style="animation-delay: 300ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#563d7c;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">CSS</span>
-<span class="percent">3.50%</span>
-</li>
-
-
-<li style="animation-delay: 450ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3178c6;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">3.28%</span>
+<span class="percent">3.56%</span>
+</li>
+
+
+<li style="animation-delay: 450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#563d7c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CSS</span>
+<span class="percent">3.49%</span>
 </li>
 
 
@@ -189,7 +189,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Vue</span>
-<span class="percent">1.18%</span>
+<span class="percent">1.17%</span>
 </li>
 
 
@@ -198,7 +198,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">0.99%</span>
+<span class="percent">0.98%</span>
 </li>
 
 
